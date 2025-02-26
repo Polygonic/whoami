@@ -1,5 +1,5 @@
 # Polygonic
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4276271" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Polygonic.png" alt="Your Image Badge" />
 
 ![1372963](https://www.codewars.com/users/Polygonic/badges/large)
 
